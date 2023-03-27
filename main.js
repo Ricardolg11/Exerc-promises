@@ -1,8 +1,8 @@
 // Promises 
-// .then / .catch para ouvi os resultados
+// .then / .catch para ver os resultados
 
-//resolve funcao para indica que deu tudo certo
-//rejec e uma funcao para que deu errado
+// resolve funcao para indica que deu tudo certo
+// rejec e uma funcao para que deu errado
 
 // 1 Ex
 const somadoisnumeros = (a , b) =>{
